@@ -5,17 +5,19 @@ Embedded, Mobile and Automotive
 
 ## Elaborate description of proposed devroom (including possible topics)
 
-Embedded Mobile and Automotive gathers hardware hackers, Linux fans
-and low-level programming enthusiasts. Its main goal is to showcase
-open source projects and allow people to share their experience,
-exchange knowledge and foster open collaboration.
+The Embedded, Mobile and Automotive Devroom aims at gathering
+developers interested in open-source hardware or open-source software
+in embedded systems in the broadest possible sense: industrial,
+automotive, mobile, etc. Its main goal is to showcase open source
+projects and allow people to share their experience, exchange
+knowledge and foster open collaboration.
 
 Possible topics include:
-* Hardware hacking
-* FOSS in embedded programming
-* The Linux Kernel
-* FOSS in mobile area
-* FOSS in automotive area
+* Open-source hardware
+* Open-source operating systems for embedded
+* Linux kernel support for embedded
+* Firmware and bootloaders in embedded systems
+* Open-source software stacks for embedded use cases
 
 ## Why does it fit FOSDEM?
 
@@ -24,10 +26,9 @@ FOSS. There are so many related open source projects that it is almost
 impossible to know them all. That's why we believe that knowledge
 sharing is a main goal of this devroom.
 
-The devroom used to be a great way of connecting open source
-contributors from all related projects. Resurrecting the devroom will
-attract low level programmers to visit the conference and allow us to
-stimulate embedded community integration.
+The Embedded, Mobile and Automotive Devroom has been present for many
+years at FOSDEM, each year gathering a significant audience, showing
+the interest of the open-source community in this topic.
 
 ## Preferred slot
 
