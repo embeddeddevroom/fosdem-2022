@@ -1,11 +1,11 @@
-This email is a Call For Participation in the embedded, mobile and
-automotive devroom FOSDEM 2022
+This email is a Call For Participation in the Embedded, Mobile and
+Automotive Devroom at FOSDEM 2022.
 
 
 Devroom date: 5th & 6th February in FOSDEM Online Venue
 CFP deadline: Friday, 17th December 2021.
 
-Final speaker confirmation on Thursday, December 31th 2021
+Final speaker confirmation on Friday, December 31th 2021.
 
 
 CFP Introduction
